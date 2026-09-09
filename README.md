@@ -71,7 +71,7 @@ The system uses role-based access control and authentication mechanisms to prote
 
 University Final-Year Project
 
-## 👩‍💻 Developer
+##  Developer
 
 Tigist Mulusew
 
